@@ -69,13 +69,6 @@ This Streamlit app creates an interactive dashboard to visualize the data collec
 4. Start the Airflow scheduler and webserver
 5. Run the Streamlit dashboard (reddit_postgres_streamlit_dashboard.py)
 
-## Contributing
-
-Feel free to fork this project and submit pull requests with improvements or new features.
-
-## License
-
-[Insert your chosen license here]
 
 ## Author
 
